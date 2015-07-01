@@ -1,7 +1,7 @@
 {
   "name": "simple-deferred",
   "description": "Simple deferred for nodejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/rodzewich/deferred",
   "author": {
     "name": "Oleg Rodzewich",
@@ -34,7 +34,7 @@
   "peerDependencies": {},
   "keywords": [],
   "files": [
-    "bin",
+    "index.js",
     "LICENSE"
   ]
 }

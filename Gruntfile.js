@@ -15,7 +15,7 @@ module.exports = function (grunt) {
                 files: [
                     {
                         expand : false,
-                        dest   : "bin/deferred.js",
+                        dest   : "index.js",
                         src    : "src/*.js"
                     }
                 ]
