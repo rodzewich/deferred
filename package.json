@@ -1,0 +1,39 @@
+{
+  "name": "simple-deferred",
+  "description": "Simple deferred for nodejs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rodzewich/deferred",
+  "author": {
+    "name": "Oleg Rodzewich",
+    "url": "https://github.com/rodzewich"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodzewich/deferred.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rodzewich/deferred/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rodzewich/grunt-tsc/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.25"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [],
+  "files": [
+    "bin",
+    "LICENSE"
+  ]
+}
